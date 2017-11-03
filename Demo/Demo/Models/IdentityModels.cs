@@ -8,6 +8,7 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Demo.Models;
 
+
 namespace Demo.Models
 {
     // 可以通过将更多属性添加到用户类来添加用户的用户数据，请访问 http://go.microsoft.com/fwlink/?LinkID=317594 了解详细信息。
